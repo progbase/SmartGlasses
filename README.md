@@ -14,4 +14,4 @@
 -----------------------------------------------------------------------------------------------------------------
 
 - [Presentation]() ---
-- [Details]() --- *accounting for hardware details*
+- [Details](https://docs.google.com/spreadsheets/d/1zQ5nU8yNbdvmvdgXoNXcjsyCjOdJxLWxV1LH7hPNBns/edit#gid=0) --- *accounting for hardware details*
