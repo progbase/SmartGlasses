@@ -9,9 +9,9 @@
 - [Stas Yankevich](https://github.com/0rqheus)           --- *Developer*
 - [Aleksey Melnychuk](https://github.com/auvy)           --- *Developer*
 - [Andrew Shylo](https://github.com/Some-cool-dude)      --- *QA Lead*
-- [Ящук Сергій]()                                        --- *QA*
+- [Sergey Yashchuk](https://github.com/Svetocvet)        --- *QA*
 
 -----------------------------------------------------------------------------------------------------------------
 
-- [Presentation]() ---
+- [Presentation](https://docs.google.com/presentation/d/1k0fQov2qoreNAW599OOgirvw8vzbrt2kIsEpeNyfiVA/edit?usp=sharing)
 - [Details](https://docs.google.com/spreadsheets/d/1zQ5nU8yNbdvmvdgXoNXcjsyCjOdJxLWxV1LH7hPNBns/edit#gid=0) --- *accounting for hardware details*
