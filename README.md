@@ -1,6 +1,6 @@
 # SmartGlasses
 *by team* [TheP1dr03d1lOfCybPol](https://github.com/orgs/progbase/teams/thep1dr03d1lofcybpol)
-![alt-текст](https://github.com/progbase/SmartGlasses/blob/master/LOGOO.jpg "опасные типа")
+                              ![alt-текст](https://github.com/progbase/SmartGlasses/blob/master/LOGOO.jpg "опасные типа")
 
 
 ***Members :***
@@ -14,6 +14,8 @@
 - [Sergey Yashchuk](https://github.com/Svetocvet)        --- *QA*
 
 -----------------------------------------------------------------------------------------------------------------
-
+***Documentation:***
+- [Team](https://github.com/orgs/progbase/teams/thep1dr03d1lofcybpol)
+- [Project](https://github.com/orgs/progbase/projects/13)
 - [Presentation](https://docs.google.com/presentation/d/1c-skeIGzCjr_AHHZTl8Pt_iZwTrDEFk1cEnb-BENedA/edit?usp=sharing)
 - [Details](https://docs.google.com/spreadsheets/d/1zQ5nU8yNbdvmvdgXoNXcjsyCjOdJxLWxV1LH7hPNBns/edit#gid=0) --- *accounting for hardware details*
