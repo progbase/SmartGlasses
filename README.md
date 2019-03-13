@@ -3,7 +3,7 @@
                               ![alt-текст](https://github.com/progbase/SmartGlasses/blob/master/LOGOO.jpg "опасные типа")
 
 
-***Members :***
+***>>> Members :***
 
 - [Kseniya Lakhman](https://github.com/KseniyaEvans)     --- *ProductOwner*
 - [Klapatiuk Oleksandr](https://github.com/Sashko26)     --- *ScrumMaster*
@@ -14,9 +14,15 @@
 - [Sergey Yashchuk](https://github.com/Svetocvet)        --- *QA*
 
 -----------------------------------------------------------------------------------------------------------------
-***Documentation:***
+***>>> Documentation:***
 - [Team](https://github.com/orgs/progbase/teams/thep1dr03d1lofcybpol)
 - [Project](https://github.com/orgs/progbase/projects/13)
 - [Backlog](https://docs.google.com/spreadsheets/d/1un0XAs5o8xwzkeLCT6S_ry1r0s9MqpnYhPaOLHUzux4/edit?usp=sharing)
 - [Presentation](https://docs.google.com/presentation/d/1c-skeIGzCjr_AHHZTl8Pt_iZwTrDEFk1cEnb-BENedA/edit?usp=sharing)
 - [Details](https://docs.google.com/spreadsheets/d/1zQ5nU8yNbdvmvdgXoNXcjsyCjOdJxLWxV1LH7hPNBns/edit#gid=0) --- *accounting for hardware details*
+
+***>>> Sprints:***
+
+*First Sprint:*
+- [Planning](https://docs.google.com/spreadsheets/d/1un0XAs5o8xwzkeLCT6S_ry1r0s9MqpnYhPaOLHUzux4/edit?usp=sharing)
+- [Presentation](https://docs.google.com/presentation/d/1PeT_7ib4wr3M52Cky45VW7u0TDl4b1JRK9CbhRz3hqY/edit?usp=sharing)
