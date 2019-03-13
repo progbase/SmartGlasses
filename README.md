@@ -24,5 +24,5 @@
 ***>>> Sprints:***
 
 *First Sprint:*
-- [Planning](https://docs.google.com/spreadsheets/d/1un0XAs5o8xwzkeLCT6S_ry1r0s9MqpnYhPaOLHUzux4/edit?usp=sharing)
+- [Planning](https://docs.google.com/document/d/1INPJL90f3DKKv9FarDjAiP3P5k9_NI2M-P6ZoThfkxA/edit)
 - [Presentation](https://docs.google.com/presentation/d/1PeT_7ib4wr3M52Cky45VW7u0TDl4b1JRK9CbhRz3hqY/edit?usp=sharing)
