@@ -1,5 +1,5 @@
 # SmartGlasses
-*by team* [TheP1dr03d1lOfCybPol](https://github.com/orgs/progbase/teams/thep1dr03d1lofcybpol)
+*by* [TheP1dr03d1lOfCybPol](https://github.com/orgs/progbase/teams/thep1dr03d1lofcybpol) *team*
                               ![alt-текст](https://github.com/progbase/SmartGlasses/blob/master/LOGOO.jpg "опасные типа")
 
 
