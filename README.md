@@ -24,5 +24,14 @@
 ***>>> Sprints:***
 
 *First Sprint:*
-- [Planning](https://docs.google.com/document/d/1INPJL90f3DKKv9FarDjAiP3P5k9_NI2M-P6ZoThfkxA/edit)
+- [Plan](https://docs.google.com/document/d/1INPJL90f3DKKv9FarDjAiP3P5k9_NI2M-P6ZoThfkxA/edit)
 - [Presentation](https://docs.google.com/presentation/d/1PeT_7ib4wr3M52Cky45VW7u0TDl4b1JRK9CbhRz3hqY/edit?usp=sharing)
+- [Retrospective](https://docs.google.com/spreadsheets/d/1RpRAxShB6cKIvOiXBCNrqr4yBwJqDBSFajcrLgETUmw/edit#gid=0)
+- [Backlog](https://docs.google.com/spreadsheets/d/1un0XAs5o8xwzkeLCT6S_ry1r0s9MqpnYhPaOLHUzux4/edit#gid=1425525959)
+
+*Second Sprint:*
+
+- [Plan](https://docs.google.com/document/d/1S2iBNohryQ-TTm_dXW6OEu4vSLIqXXCrnTk-um8b9_M/edit)
+- [Presentation](https://docs.google.com/presentation/d/1okDZG0EMFgE8vkkkTHpKO7hXbgy0TEnYhQdOAcksYoI/edit?usp=sharing)
+- [Retrospective](https://docs.google.com/spreadsheets/d/1RpRAxShB6cKIvOiXBCNrqr4yBwJqDBSFajcrLgETUmw/edit#gid=1119702037)
+- [Backlog](https://docs.google.com/spreadsheets/d/1un0XAs5o8xwzkeLCT6S_ry1r0s9MqpnYhPaOLHUzux4/edit#gid=1863646046)
